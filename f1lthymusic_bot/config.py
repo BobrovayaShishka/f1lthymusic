@@ -1,0 +1,3 @@
+BOT_TOKEN = "7879139652:AAF7CuFxPejKZtTG1yNUsEHf0EY2manuC7M"
+TEMP_DIR = "temp/"
+SOUND_FONT = "sound_font.sf2"
